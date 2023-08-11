@@ -1,0 +1,8 @@
+[
+  { "command": "open", "response": "Opened" },
+  { "command": "close", "response": "Closed" },
+  { "command": "lol", "response": "Yes sir" },
+  { "command": "reload", "response": "Reloading the page" },
+  { "command": "open search", "response": "Search opened" },
+  { "command": "close search", "response": "Search closed" }
+]
